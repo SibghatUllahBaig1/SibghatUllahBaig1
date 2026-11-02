@@ -45,12 +45,14 @@ I build production mobile apps, admin panels and AI-powered automations for star
 
 | Product | What it does | Stack |
 |---|---|---|
-| **🎙️ Voice Ledger** | Speak a transaction and watch it land in your Google Sheet instantly — no typing, no forms. | Flutter · AI speech-to-text · Google Sheets API |
-| **📒 AutoLedger** | Automated bookkeeping app that turns everyday inputs into clean financial records. | Flutter · Firebase |
+| **🎙️ [Voice Ledger](https://github.com/SibghatUllahBaig1/voice-ledger-public)** | Speak a transaction and watch it land in your Google Sheet instantly — no typing, no forms. | Flutter · Firebase · Google Sheets API · RevenueCat |
+| **🎙️ [Voice to Airtable](https://github.com/SibghatUllahBaig1/voice-to-airtable-public)** | Add, update, delete and query Airtable records by voice with schema-aware AI. | Flutter · Gemini · Airtable API · Firebase |
+| **🚗 [AutoLedger](https://github.com/SibghatUllahBaig1/autoledger-public)** | Offline-first vehicle control & fleet management: fuel, service, drivers, reminders and PDF reports. | Flutter · Isar · Firebase · RevenueCat |
+| **🌅 [Daymark](https://github.com/SibghatUllahBaig1/daymark-app-public)** | Privacy-first health tracker: check-ins, medications, nutrition and clinician-ready PDF reports. | Flutter · Firebase · RevenueCat |
+| **📱 [Business Management App](https://github.com/SibghatUllahBaig1/business-management-mobile-app-public)** | Notification-driven companion app with biometric login, inbox, members and revenue views. | Flutter · GetX · FCM |
 | **⚖️ Fairly** | Helps couples share household responsibilities and mental load, with calm AI-generated insights. | Flutter · GetX · Firebase · RevenueCat · AI |
 | **🥗 [EatWise](https://github.com/SibghatUllahBaig1/eat_wise_flutter)** | Nutrition and healthy-eating companion app. | Flutter · Dart |
 | **📶 DLGX Speed Check** | Fast, clean internet speed test for mobile. | Flutter |
-| **🤖 Voice → Airtable** | Voice-driven data entry that structures speech into Airtable records. | Flutter · AI · Airtable API |
 
 <!-- Add screenshots / store links like this:
 [<img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white">](PLAY_STORE_LINK)
