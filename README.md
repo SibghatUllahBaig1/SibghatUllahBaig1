@@ -61,16 +61,7 @@ I build production mobile apps, admin panels and AI-powered automations for star
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SibghatUllahBaig1&show_icons=true&count_private=true&hide_border=true&theme=default"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SibghatUllahBaig1&layout=compact&hide_border=true&theme=default"/>
-</p>
-
----
-
 ### 🤝 Work with me
 
-I'm open to freelance projects, MVP builds and automation work.
+I'm open to freelance projects, MVP builds and automation work.<br/>
 📫 **sibghat.developlogix@gmail.com** · 🌐 **[developlogix.com](https://www.developlogix.com)**
